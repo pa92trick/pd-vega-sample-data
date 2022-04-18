@@ -421,6 +421,416 @@
             "namespace": "default"
           }
         }
+      },
+      {
+        "_index": ".ds-logs-generic-default-2022.04.17-000001",
+        "_id": "dB22OYABsXwsPNgN6NgE",
+        "_score": 0,
+        "_source": {
+          "level": "DEBUG",
+          "pid": 47672,
+          "extra": {
+            "line": 47,
+            "previous_task_name": "FirstTask",
+            "service": "second_service",
+            "thread_name": "MainThread",
+            "interpreter": "/usr/bin/python3.10",
+            "error_code": 0,
+            "path": "/home/patrickderckx/dev/test_logging/example2/pipelineutils/cb_logger.py",
+            "func_name": "log",
+            "task_name": "SecondTask",
+            "logstash_async_version": "2.5.0",
+            "pipeline_id": "7494a24a377a4acb8f37747940690481",
+            "logger_name": "root",
+            "interpreter_version": "3.10.0",
+            "task_id": "55c919488fb54b72a4206f5c81713909",
+            "previous_task_id": "a97955caf4c34180976494b8af188a58",
+            "process_name": "MainProcess"
+          },
+          "program": "/home/patrickderckx/dev/test_logging/example2/second_service.py",
+          "host": {
+            "name": "fedora"
+          },
+          "logsource": "fedora",
+          "@timestamp": "2022-04-17T22:48:49.087Z",
+          "@version": "1",
+          "type": "python-logstash",
+          "message": "Now, lets wait a moment wo act busy here, too.",
+          "data_stream": {
+            "type": "logs",
+            "dataset": "generic",
+            "namespace": "default"
+          }
+        }
+      },
+      {
+        "_index": ".ds-logs-generic-default-2022.04.17-000001",
+        "_id": "85789b2774844c7c857138f1dd787e97",
+        "_score": 0,
+        "_source": {
+          "level": "DEBUG",
+          "pid": 47672,
+          "extra": {
+            "line": 47,
+            "previous_task_name": "FirstTask",
+            "service": "second_service",
+            "thread_name": "MainThread",
+            "interpreter": "/usr/bin/python3.10",
+            "error_code": 0,
+            "path": "/home/patrickderckx/dev/test_logging/example2/pipelineutils/cb_logger.py",
+            "func_name": "log",
+            "task_name": "SecondTask",
+            "logstash_async_version": "2.5.0",
+            "pipeline_id": "7494a24a377a4acb8f37747940690481",
+            "logger_name": "root",
+            "interpreter_version": "3.10.0",
+            "task_id": "85789b2774844c7c857138f1dd787e97",
+            "previous_task_id": "",
+            "process_name": "MainProcess"
+          },
+          "program": "/home/patrickderckx/dev/test_logging/example2/second_service.py",
+          "host": {
+            "name": "fedora"
+          },
+          "logsource": "fedora",
+          "@timestamp": "2022-04-17T22:48:49.087Z",
+          "@version": "1",
+          "type": "python-logstash",
+          "message": "Now, lets wait a moment wo act busy here, too.",
+          "data_stream": {
+            "type": "logs",
+            "dataset": "generic",
+            "namespace": "default"
+          }
+        }
+      },
+      {
+        "_index": ".ds-logs-generic-default-2022.04.17-000001",
+        "_id": "d300c1fef94b4f18ba1b5e46aada0746",
+        "_score": 0,
+        "_source": {
+          "level": "DEBUG",
+          "pid": 47672,
+          "extra": {
+            "line": 47,
+            "previous_task_name": "FirstTask",
+            "service": "second_service",
+            "thread_name": "MainThread",
+            "interpreter": "/usr/bin/python3.10",
+            "error_code": 0,
+            "path": "/home/patrickderckx/dev/test_logging/example2/pipelineutils/cb_logger.py",
+            "func_name": "log",
+            "task_name": "SecondTask",
+            "logstash_async_version": "2.5.0",
+            "pipeline_id": "7494a24a377a4acb8f37747940690481",
+            "logger_name": "root",
+            "interpreter_version": "3.10.0",
+            "task_id": "d300c1fef94b4f18ba1b5e46aada0746",
+            "previous_task_id": "",
+            "process_name": "MainProcess"
+          },
+          "program": "/home/patrickderckx/dev/test_logging/example2/second_service.py",
+          "host": {
+            "name": "fedora"
+          },
+          "logsource": "fedora",
+          "@timestamp": "2022-04-17T22:48:49.087Z",
+          "@version": "1",
+          "type": "python-logstash",
+          "message": "Now, lets wait a moment wo act busy here, too.",
+          "data_stream": {
+            "type": "logs",
+            "dataset": "generic",
+            "namespace": "default"
+          }
+        }
+      },
+      {
+        "_index": ".ds-logs-generic-default-2022.04.17-000001",
+        "_id": "b5c802a8208b456ea62252481a8153b8",
+        "_score": 0,
+        "_source": {
+          "level": "DEBUG",
+          "pid": 47672,
+          "extra": {
+            "line": 47,
+            "previous_task_name": "FirstTask",
+            "service": "second_service",
+            "thread_name": "MainThread",
+            "interpreter": "/usr/bin/python3.10",
+            "error_code": 0,
+            "path": "/home/patrickderckx/dev/test_logging/example2/pipelineutils/cb_logger.py",
+            "func_name": "log",
+            "task_name": "SecondTask",
+            "logstash_async_version": "2.5.0",
+            "pipeline_id": "7494a24a377a4acb8f37747940690481",
+            "logger_name": "root",
+            "interpreter_version": "3.10.0",
+            "task_id": "b5c802a8208b456ea62252481a8153b8",
+            "previous_task_id": "",
+            "process_name": "MainProcess"
+          },
+          "program": "/home/patrickderckx/dev/test_logging/example2/second_service.py",
+          "host": {
+            "name": "fedora"
+          },
+          "logsource": "fedora",
+          "@timestamp": "2022-04-17T22:48:49.087Z",
+          "@version": "1",
+          "type": "python-logstash",
+          "message": "Now, lets wait a moment wo act busy here, too.",
+          "data_stream": {
+            "type": "logs",
+            "dataset": "generic",
+            "namespace": "default"
+          }
+        }
+      },
+      {
+        "_index": ".ds-logs-generic-default-2022.04.17-000001",
+        "_id": "aff3ff829f184ae882b59d6c978bcab0",
+        "_score": 0,
+        "_source": {
+          "level": "DEBUG",
+          "pid": 47672,
+          "extra": {
+            "line": 47,
+            "previous_task_name": "FirstTask",
+            "service": "second_service",
+            "thread_name": "MainThread",
+            "interpreter": "/usr/bin/python3.10",
+            "error_code": 0,
+            "path": "/home/patrickderckx/dev/test_logging/example2/pipelineutils/cb_logger.py",
+            "func_name": "log",
+            "task_name": "SecondTask",
+            "logstash_async_version": "2.5.0",
+            "pipeline_id": "7494a24a377a4acb8f37747940690481",
+            "logger_name": "root",
+            "interpreter_version": "3.10.0",
+            "task_id": "aff3ff829f184ae882b59d6c978bcab0",
+            "previous_task_id": "",
+            "process_name": "MainProcess"
+          },
+          "program": "/home/patrickderckx/dev/test_logging/example2/second_service.py",
+          "host": {
+            "name": "fedora"
+          },
+          "logsource": "fedora",
+          "@timestamp": "2022-04-17T22:48:49.087Z",
+          "@version": "1",
+          "type": "python-logstash",
+          "message": "Now, lets wait a moment wo act busy here, too.",
+          "data_stream": {
+            "type": "logs",
+            "dataset": "generic",
+            "namespace": "default"
+          }
+        }
+      },
+      {
+        "_index": ".ds-logs-generic-default-2022.04.17-000001",
+        "_id": "ff760602fd3748478eb604a377e00986",
+        "_score": 0,
+        "_source": {
+          "level": "DEBUG",
+          "pid": 47672,
+          "extra": {
+            "line": 47,
+            "previous_task_name": "FirstTask",
+            "service": "second_service",
+            "thread_name": "MainThread",
+            "interpreter": "/usr/bin/python3.10",
+            "error_code": 0,
+            "path": "/home/patrickderckx/dev/test_logging/example2/pipelineutils/cb_logger.py",
+            "func_name": "log",
+            "task_name": "SecondTask",
+            "logstash_async_version": "2.5.0",
+            "pipeline_id": "7494a24a377a4acb8f37747940690481",
+            "logger_name": "root",
+            "interpreter_version": "3.10.0",
+            "task_id": "ff760602fd3748478eb604a377e00986",
+            "previous_task_id": "",
+            "process_name": "MainProcess"
+          },
+          "program": "/home/patrickderckx/dev/test_logging/example2/second_service.py",
+          "host": {
+            "name": "fedora"
+          },
+          "logsource": "fedora",
+          "@timestamp": "2022-04-17T22:48:49.087Z",
+          "@version": "1",
+          "type": "python-logstash",
+          "message": "Now, lets wait a moment wo act busy here, too.",
+          "data_stream": {
+            "type": "logs",
+            "dataset": "generic",
+            "namespace": "default"
+          }
+        }
+      },
+      {
+        "_index": ".ds-logs-generic-default-2022.04.17-000001",
+        "_id": "7d73eb13dd684ed49c95c57881f93168",
+        "_score": 0,
+        "_source": {
+          "level": "DEBUG",
+          "pid": 47672,
+          "extra": {
+            "line": 47,
+            "previous_task_name": "FirstTask",
+            "service": "second_service",
+            "thread_name": "MainThread",
+            "interpreter": "/usr/bin/python3.10",
+            "error_code": 0,
+            "path": "/home/patrickderckx/dev/test_logging/example2/pipelineutils/cb_logger.py",
+            "func_name": "log",
+            "task_name": "SecondTask",
+            "logstash_async_version": "2.5.0",
+            "pipeline_id": "7494a24a377a4acb8f37747940690481",
+            "logger_name": "root",
+            "interpreter_version": "3.10.0",
+            "task_id": "7d73eb13dd684ed49c95c57881f93168",
+            "previous_task_id": "",
+            "process_name": "MainProcess"
+          },
+          "program": "/home/patrickderckx/dev/test_logging/example2/second_service.py",
+          "host": {
+            "name": "fedora"
+          },
+          "logsource": "fedora",
+          "@timestamp": "2022-04-17T22:48:49.087Z",
+          "@version": "1",
+          "type": "python-logstash",
+          "message": "Now, lets wait a moment wo act busy here, too.",
+          "data_stream": {
+            "type": "logs",
+            "dataset": "generic",
+            "namespace": "default"
+          }
+        }
+      },
+      {
+        "_index": ".ds-logs-generic-default-2022.04.17-000001",
+        "_id": "26ca560d8d3346b0b7c427d37eeb6614",
+        "_score": 0,
+        "_source": {
+          "level": "DEBUG",
+          "pid": 47672,
+          "extra": {
+            "line": 47,
+            "previous_task_name": "FirstTask",
+            "service": "second_service",
+            "thread_name": "MainThread",
+            "interpreter": "/usr/bin/python3.10",
+            "error_code": 0,
+            "path": "/home/patrickderckx/dev/test_logging/example2/pipelineutils/cb_logger.py",
+            "func_name": "log",
+            "task_name": "SecondTask",
+            "logstash_async_version": "2.5.0",
+            "pipeline_id": "7494a24a377a4acb8f37747940690481",
+            "logger_name": "root",
+            "interpreter_version": "3.10.0",
+            "task_id": "26ca560d8d3346b0b7c427d37eeb6614",
+            "previous_task_id": "",
+            "process_name": "MainProcess"
+          },
+          "program": "/home/patrickderckx/dev/test_logging/example2/second_service.py",
+          "host": {
+            "name": "fedora"
+          },
+          "logsource": "fedora",
+          "@timestamp": "2022-04-17T22:48:49.087Z",
+          "@version": "1",
+          "type": "python-logstash",
+          "message": "Now, lets wait a moment wo act busy here, too.",
+          "data_stream": {
+            "type": "logs",
+            "dataset": "generic",
+            "namespace": "default"
+          }
+        }
+      },
+      {
+        "_index": ".ds-logs-generic-default-2022.04.17-000001",
+        "_id": "5ece505da59d4f91ab7854ce2b12159d",
+        "_score": 0,
+        "_source": {
+          "level": "DEBUG",
+          "pid": 47672,
+          "extra": {
+            "line": 47,
+            "previous_task_name": "FirstTask",
+            "service": "second_service",
+            "thread_name": "MainThread",
+            "interpreter": "/usr/bin/python3.10",
+            "error_code": 0,
+            "path": "/home/patrickderckx/dev/test_logging/example2/pipelineutils/cb_logger.py",
+            "func_name": "log",
+            "task_name": "SecondTask",
+            "logstash_async_version": "2.5.0",
+            "pipeline_id": "7494a24a377a4acb8f37747940690481",
+            "logger_name": "root",
+            "interpreter_version": "3.10.0",
+            "task_id": "5ece505da59d4f91ab7854ce2b12159d",
+            "previous_task_id": "",
+            "process_name": "MainProcess"
+          },
+          "program": "/home/patrickderckx/dev/test_logging/example2/second_service.py",
+          "host": {
+            "name": "fedora"
+          },
+          "logsource": "fedora",
+          "@timestamp": "2022-04-17T22:48:49.087Z",
+          "@version": "1",
+          "type": "python-logstash",
+          "message": "Now, lets wait a moment wo act busy here, too.",
+          "data_stream": {
+            "type": "logs",
+            "dataset": "generic",
+            "namespace": "default"
+          }
+        }
+      },
+      {
+        "_index": ".ds-logs-generic-default-2022.04.17-000001",
+        "_id": "a97955caf4c34180976494b8af188a58",
+        "_score": 0,
+        "_source": {
+          "level": "DEBUG",
+          "pid": 47672,
+          "extra": {
+            "line": 47,
+            "previous_task_name": "FirstTask",
+            "service": "second_service",
+            "thread_name": "MainThread",
+            "interpreter": "/usr/bin/python3.10",
+            "error_code": 0,
+            "path": "/home/patrickderckx/dev/test_logging/example2/pipelineutils/cb_logger.py",
+            "func_name": "log",
+            "task_name": "SecondTask",
+            "logstash_async_version": "2.5.0",
+            "pipeline_id": "7494a24a377a4acb8f37747940690481",
+            "logger_name": "root",
+            "interpreter_version": "3.10.0",
+            "task_id": "a97955caf4c34180976494b8af188a58",
+            "previous_task_id": "",
+            "process_name": "MainProcess"
+          },
+          "program": "/home/patrickderckx/dev/test_logging/example2/second_service.py",
+          "host": {
+            "name": "fedora"
+          },
+          "logsource": "fedora",
+          "@timestamp": "2022-04-17T22:48:49.087Z",
+          "@version": "1",
+          "type": "python-logstash",
+          "message": "Now, lets wait a moment wo act busy here, too.",
+          "data_stream": {
+            "type": "logs",
+            "dataset": "generic",
+            "namespace": "default"
+          }
+        }
       }
     ]
   },
